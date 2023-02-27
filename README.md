@@ -18,7 +18,7 @@ For now this is just BASIC - terminal able to solve simple math using command ma
 
     > math (2 + 3) * 4
 
-    The result of 'Math' operation is : 14
+    The result of 'Math' operation is : 20
 
 ```
 
