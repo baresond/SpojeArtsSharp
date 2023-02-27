@@ -26,11 +26,11 @@ For now this is just BASIC - terminal able to solve simple math using command ma
 Using mainly for debuging
 
 #### Aliases
--ShowUnixTree
--ShowUnixTree
--ShowUnixTree
--ShowUnixTree
--ShowUnixTree
+- ShowUnixTree
+- ShowUnixTree
+- ShowUnixTree
+- ShowUnixTree
+- ShowUnixTree
 
 ```css
 
